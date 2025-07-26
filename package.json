@@ -17,5 +17,8 @@
     "url": "https://github.com/sravani-86/git-ex/issues"
   },
   "homepage": "https://github.com/sravani-86/git-ex#readme",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "express": "^5.1.0"
+  }
 }
